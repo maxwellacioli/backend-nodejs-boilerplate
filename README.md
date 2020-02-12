@@ -1,6 +1,6 @@
-A boilerplate project to build a backend using nodejs.
+### A boilerplate project to build a backend using nodejs ###
 
-To run need:
+#### To run execute the following steps: ####
 
 1. Clone this project
 2. Run command "yarn install"
